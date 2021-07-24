@@ -1,12 +1,8 @@
-xiangxi {
+.xiangxi {
     display: block;
     margin-left: auto;
     margin-right: auto;
     border-radius: 50%;
-}
-
-title {
-    text-align: center;
 }
 
 .hello {
