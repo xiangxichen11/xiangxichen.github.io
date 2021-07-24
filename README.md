@@ -1,4 +1,4 @@
-# xiangxichen11.github.io
+# xiangxichen11
 
 ### **Hey Everyone, I'm Xiang Xi**
 
