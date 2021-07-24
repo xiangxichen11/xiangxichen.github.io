@@ -1,4 +1,3 @@
-# xiangxichen11
 
 ### **Hey Everyone, I'm Xiang Xi**
 
