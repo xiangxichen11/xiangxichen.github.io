@@ -1,0 +1,23 @@
+.xiangxi {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+}
+
+.hello {
+    text-align: center;
+    font-family: Verdana;
+}
+
+.box-one {
+    text-align: center;
+}
+
+.box-two {
+    text-align-last: right;
+}
+
+body {
+    background-color: aqua;
+}
